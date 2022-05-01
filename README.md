@@ -12,7 +12,7 @@ Weekly_Mission_1: ✅
 
 Weekly_Mission_2: ✅
  
-Weekly_Mission_3; In progress ...
+Weekly_Mission_3; ✅
 
 Weekly_Mission_4: In progress ...
 
